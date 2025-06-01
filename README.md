@@ -24,11 +24,17 @@ An intelligent, interactive interview simulator that analyzes candidate performa
 ## 🧱 Project Structure
 
 📁 AI_Interview_Assessment/
-├── app.py # Main Streamlit application
+
+├── app.py # Main Streamlit application 
+|
 ├── analytics_utils.py # Candidate response analysis module
+|
 ├── session_recorder.py # Session tracking & history manager
+|
 ├── model_config.py # LLM configuration and prompt handling
+|
 ├── users.json # User credentials (insecure - use DB in production)
+
 
 
 ---
@@ -83,7 +89,7 @@ An intelligent, interactive interview simulator that analyzes candidate performa
 
 ## 📦 Setup Instructions
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/<your-username>/ai-interview-assessment.git
 cd ai-interview-assessment
@@ -93,6 +99,9 @@ pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run app.py
+
+
+
 
 🛡️ Notes & Limitations
 User data is stored in users.json – not secure for production
