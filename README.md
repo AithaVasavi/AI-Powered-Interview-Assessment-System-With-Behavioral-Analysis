@@ -122,9 +122,15 @@ GitHub Profile
 
 ## 📊 Results
 
-### Result 1
+### ON WEB PAGE CLICK ON REGISTER FOR USERNAME CREATION
 ![Result 1](1.jpg)
 
-### Result 2
+### CLICK ON BROWSE FILES SELECT RESUME AND UPLOAD
 ![Result 2](2.jpg)
+
+### FROM RESUME LLM REQUESTS A QUERY TO ANSWER
+![Result 3](3.jpg)
+
+### PERFORMANCE ANALYTICS FROM OUR QUERY RESPONSE
+![Result 4](4.jpg)
 
