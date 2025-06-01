@@ -25,15 +25,11 @@ An intelligent, interactive interview simulator that analyzes candidate performa
 
 📁 AI_Interview_Assessment/
 
-├── app.py # Main Streamlit application 
-|
-├── analytics_utils.py # Candidate response analysis module
-|
-├── session_recorder.py # Session tracking & history manager
-|
-├── model_config.py # LLM configuration and prompt handling
-|
-├── users.json # User credentials (insecure - use DB in production)
+├── app.py # Main Streamlit application  
+├── analytics_utils.py # Candidate response analysis module  
+├── session_recorder.py # Session tracking & history manager  
+├── model_config.py # LLM configuration and prompt handling  
+├── users.json # User credentials (insecure - use DB in production)  
 
 
 
@@ -97,7 +93,7 @@ An intelligent, interactive interview simulator that analyzes candidate performa
 2. Install dependencies  
       pip install -r requirements.txt
 
-3. Run the app<br><br>
+3. Run the app  
       streamlit run app.py
 
 
@@ -123,6 +119,12 @@ Vasavi
 GitHub Profile
 📧 vasavi9354@gmail.com
 
-**Results**
 
+## 📊 Results
+
+### Result 1
+![Result 1](1.png)
+
+### Result 2
+![Result 2](2.png)
 
