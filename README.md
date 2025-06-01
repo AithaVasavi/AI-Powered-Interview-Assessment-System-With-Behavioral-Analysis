@@ -90,14 +90,14 @@ An intelligent, interactive interview simulator that analyzes candidate performa
 ## 📦 Setup Instructions
 
 
-1. Clone the repository
-      git clone https://github.com/<your-username>/ai-interview-assessment.git
+1. Clone the repository  
+      git clone https://github.com/<your-username>/ai-interview-assessment.git  
       cd ai-interview-assessment
 
-2. Install dependencies
+2. Install dependencies  
       pip install -r requirements.txt
 
-3. Run the app
+3. Run the app<br><br>
       streamlit run app.py
 
 
