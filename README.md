@@ -123,8 +123,8 @@ GitHub Profile
 ## 📊 Results
 
 ### Result 1
-![Result 1](1.png)
+![Result 1](1.jpg)
 
 ### Result 2
-![Result 2](2.png)
+![Result 2](2.jpg)
 
